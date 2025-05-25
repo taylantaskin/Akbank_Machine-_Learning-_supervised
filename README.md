@@ -71,5 +71,4 @@ The dataset contains the following features:
 - Future work could include hyperparameter optimization, unsupervised learning, and deploying the model using a web interface.
 
 ## Kaggle Notebook
-[Link to Kaggle Notebook](#)
-
+https://www.kaggle.com/code/taylantakn/akbank-machine-learning-supervised/edit
